@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🍉 Fruit Name Prediction (Dynamic)")
+st.title("🍉 Fruit Name Prediction")
 st.write("Enter fruit characteristics to predict the fruit name")
 
 # ---------------- LOAD MODEL ----------------
